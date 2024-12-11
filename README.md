@@ -55,14 +55,6 @@
 </a>
 
 
-<br></br>
-
-<b> ⚡ Principais Repositórios</b>:
-
-<a href="https://github.com/italosimoesrj/italosimoesrj">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=italosimoesrj&repo=italosimoesrj&theme=dark" />
-</a>
-
 
  
 
