@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italosimoesrj" alt="italosimoesrj" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em: **Sonia chat bot**
+- 🔭 Atualmente estou trabalhando em: **Walkiria chat bot**
 
 - 🌱 Estou estudando: **Cybersecurity for data.**
 
