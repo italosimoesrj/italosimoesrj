@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm ÍTALO SIMÕES</h1>
-<h3 align="center">A passionate Data Scientist developer from Brazil</h3>
+<h1 align="center">Olá 👋, eu sou ÍTALO SIMÕES</h1>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=italosimoesrj&label=Profile%20views&color=0e75b6&style=flat" alt="italosimoesrj" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italosimoesrj&label=Profile%20views&color=0e75b6&style=flat" alt="italosimoesrj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italosimoesrj" alt="italosimoesrj" /></a> </p>
 
-- 🔭 I’m currently working on **Sonia chat bot**
+- 🔭 Atualmente estou trabalhando em: **Sonia chat bot**
 
-- 🌱 I’m currently learning **Cybersecurity for data.**
+- 🌱 Estou estudando: **Cybersecurity for data.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/italosimoesrj/devblackops](https://github.com/italosimoesrj/devblackops)
+- 👨‍💻 Todos os meus projetos estão disponíveis em:  [https://github.com/italosimoesrj/devblackops](https://github.com/italosimoesrj/devblackops)
 
-- 📫 How to reach me **italosimoesrj@gmail.com**
+- 📫 Como entrar em contato: **italosimoesrj@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/%C3%ADtalo-sim%C3%B5es-463b3751/](https://www.linkedin.com/in/%C3%ADtalo-sim%C3%B5es-463b3751/)
+- 📄 Conheça minhas esperiências [https://www.linkedin.com/in/%C3%ADtalo-sim%C3%B5es-463b3751/](https://www.linkedin.com/in/%C3%ADtalo-sim%C3%B5es-463b3751/)
 
-- ⚡ Fun fact **I like fishing.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Se conecte:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%adtalo-sim%c3%b5es-463b3751/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%adtalo-sim%c3%b5es-463b3751/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/italosimoes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/italosimoes" height="30" width="40" /></a>
