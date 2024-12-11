@@ -1,11 +1,10 @@
+<p align="center"> <img src="https://github.com/italosimoesrj/italosimoesrj/blob/main/ds.jpg" /> </p>
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italosimoesrj" alt="italosimoesrj" /></a> </p>
+
 ![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25C3%25ADtalo-sim%25C3%25B5es-463b3751%2F)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italosimoesrj&label=Profile%20views&color=0e75b6&style=flat" alt="italosimoesrj" /> </p>
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italosimoesrj" alt="italosimoesrj" /></a> </p>
-
-
 
  ## 🚀 **Linguagens e Ferramentas:**
 
