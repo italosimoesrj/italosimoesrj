@@ -1,29 +1,71 @@
 <h1 align="center">Olá 👋, eu sou ÍTALO SIMÕES</h1>
 
+![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2F%25C3%25ADtalo-sim%25C3%25B5es-463b3751%2F)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=italosimoesrj&label=Profile%20views&color=0e75b6&style=flat" alt="italosimoesrj" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=italosimoesrj&label=Profile%20views&color=0e75b6&style=flat" alt="italosimoesrj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=italosimoesrj" alt="italosimoesrj" /></a> </p>
 
-- 🔭 Atualmente estou trabalhando em: **Walkiria chat bot**
-
-- 🌱 Estou estudando: **Cybersecurity for data.**
-
-- 👨‍💻 Todos os meus projetos estão disponíveis em:  [https://github.com/italosimoesrj/devblackops](https://github.com/italosimoesrj/devblackops)
-
-- 📫 Como entrar em contato: **italosimoesrj@gmail.com**
-
-- 📄 Conheça minhas esperiências [https://www.linkedin.com/in/%C3%ADtalo-sim%C3%B5es-463b3751/](https://www.linkedin.com/in/%C3%ADtalo-sim%C3%B5es-463b3751/)
 
 
-<h3 align="left">Se conecte:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%adtalo-sim%c3%b5es-463b3751/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c3%adtalo-sim%c3%b5es-463b3751/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/italosimoes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/italosimoes" height="30" width="40" /></a>
-</p>
+ ## 🚀 **Linguagens e Ferramentas:**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+ #### 💻 Uso diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+
+ 
+ 
+ #### 🎲 Ciência de dados:
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+ ![TensorFlow](https://img.shields.io/badge/TensorFlow-black?style=flat&logo=tensorflow)
+ ![Mysql](https://img.shields.io/badge/Mysql-black?style=flat&logo=mysql)
+
+
+ #### ⚙️ Engenharia de dados:
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Hadoop](https://img.shields.io/badge/-Hadoop-black?style=flat-square&logo=Apache-Hadoop)
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ 
+ #### 📚 Tenho conhecimento básico:
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=Mongodb)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ 
+ #### 🌱 Estou aprendendo:
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![ Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+ 
+ 
+ <br>
+
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/italosimoesrj">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=italosimoesrj&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/italosimoesrj">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italosimoesrj&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+
+<br></br>
+
+<b> ⚡ Principais Repositórios</b>:
+
+<a href="https://github.com/italosimoesrj/italosimoesrj">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=italosimoesrj&repo=italosimoesrj&theme=dark" />
+</a>
+
+
+ 
 
